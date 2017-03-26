@@ -7,3 +7,4 @@ Implemented tasks:
 - (2) Add new layer for activations quantization
 - (3) CPU and GPU versions of above tasks
 
+The implementation is based on Caffe (https://github.com/BVLC/caffe).
