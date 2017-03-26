@@ -1,5 +1,5 @@
 =======
-# Quantizatio of CNN/LSTM
+# The quantization of CNN/LSTM
 Ongoing work that tries to quantize the weights, activations as well as gradients to k-bit representation for model compression. Use bit-wise operation to speed up inference procedure in test phase. 
 
 Implemented tasks:
